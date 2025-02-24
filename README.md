@@ -12,3 +12,4 @@ Este es un mensaje editado completamente desde GitHub
 ### Nuevo cambio desde Github.com
 
 Ahora hacemos cambios desde VSCode para Github, tiene que dar error.
+Ahora hacemos cambios desde VSCode para Github, cambio para dar error.
